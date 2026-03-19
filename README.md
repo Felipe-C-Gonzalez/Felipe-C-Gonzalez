@@ -1,21 +1,29 @@
-<div>
-   <a href="https://github.com/Felipe-C-Gonzalez">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-C-Gonzalez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-C-Gonzalez&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-<div> 
-  <a href="https:// target="_blank"></a>
-  <a href="" target="_blank"></a>
- <a href="https:// target="_blank"></a> 
-  <a href = "target="_blank"></a>
-  <a href="https: target="_blank"></a>
-</div>
+# Felipe Gonzalez
+
+Com 12 anos de experiência em análise técnica no setor automotivo, trago para o desenvolvimento de software uma base sólida em resolução de problemas, foco em processos e maturidade profissional. 
+
+Atualmente, dedico minha experiência analítica ao desenvolvimento Front-End, com foco em criar interfaces eficientes e integrar sistemas complexos.
+
+---
+
+### 🛠️ Stack Técnica & Foco
+Minha rotina de desenvolvimento é centrada em **JavaScript (ES6+)**, **HTML5** e **CSS3**, com foco especial em:
+* **Integração de APIs REST:** Experiência prática no consumo e manipulação de dados externos.
+* **React & TypeScript:** Tecnologias que utilizo para construir aplicações escaláveis e com código limpo.
+* **Versionamento:** Uso estratégico de Git e GitHub para organização e colaboração em equipe.
+
+### 🚀 Experiência em Destaque
+* **Projeto MackSun (CRAAM/Mackenzie):** Atuei no desenvolvimento da interface web para visualização e processamento de dados astronômicos, lidando com autenticação JWT e integração de APIs em um ambiente de colaboração técnica.
+* **Patrimônio Exponencial:** Desenvolvimento individual de um simulador de investimentos utilizando Vanilla JS e integração direta com a API do Banco Central (BCB).
+
+### 🎓 Formação e Evolução
+* **Análise e Desenvolvimento de Sistemas** – Estácio (Previsão 2027).
+* **DevQuest (Dev em Dobro):** Especialização focada em desenvolvimento Front-End e boas práticas de mercado.
+
+---
+
+**Estou em busca de uma oportunidade como Estagiário ou Desenvolvedor Júnior para aplicar minha experiência técnica e capacidade analítica em desafios de software.**
+
+📫 **Contato:**
+* [LinkedIn](https://linkedin.com/in/felipecgonzalez)
+* [GitHub](https://github.com/Felipe-C-Gonzalez)
